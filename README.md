@@ -11,5 +11,5 @@ LCD). The colors of the image should be correct so you need to swap the R and B 
 correctly. The screen saver will run forever moving the image around the LCD continuously. Here is an
 example picture that shows the behavior:
 
+![image](https://user-images.githubusercontent.com/50769889/118782545-1041cf00-b843-11eb-99c5-cdef649a21f7.png)
 
-![image](https://user-images.githubusercontent.com/50769889/118782320-d7a1f580-b842-11eb-81f6-6d48c0d46c4a.png)
